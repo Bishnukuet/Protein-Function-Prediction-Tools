@@ -21,13 +21,12 @@ Here, I ensemble a curated list of resources regarding the research in protein f
   
 # Function Annotation Tools: Gene Ontology (GO) terms Prediction:
 - **Sequence Similarity Based**
-   - Blast2GO
+   - **Blast2GO**
     - [[Blast2Go]] (https://www.blast2go.com/)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/16081474)
-  -DeepGO
+  - **DeepGO**
     - [[Tool]] (http://deepgo.bio2vec.net/deepgo/)
     - [[Paper]] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5860606/)
-  -
   
  
   
