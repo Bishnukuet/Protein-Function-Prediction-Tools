@@ -43,8 +43,8 @@ Here, I ensemble a curated list of resources regarding the research in protein f
     - [[Panda]](http://protein.bio.unipd.it/panada/)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/24265686)
   -**PFP-ESG**
-    -[[PFP-ESG]](http://kiharalab.org/software.php)
-    -[[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/28451967)
+    - [[PFP-ESG]](http://kiharalab.org/software.php)
+    - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/28451967)
 
 
 # Interesting Papers
@@ -53,15 +53,14 @@ Here, I ensemble a curated list of resources regarding the research in protein f
 - [[Protein function prediction using text-based features extracted from the biomedical literature: the CAFA challenge]](https://www.ncbi.nlm.nih.gov/pubmed/23514326)
 - [[MS-kNN: protein function prediction by integrating multiple data sources]](https://www.ncbi.nlm.nih.gov/pubmed/23514608)
 - [[A regression-based K nearest neighbor algorithm for gene function prediction from heterogeneous data]](https://www.ncbi.nlm.nih.gov/pubmed/16723004)
--[[Predicting gene function using similarity learning]](https://www.ncbi.nlm.nih.gov/pubmed/24266903)
--[[Gene Ontology annotation of the rice blast fungus, Magnaporthe oryzae]](https://www.ncbi.nlm.nih.gov/pubmed/19278556)
--[[Prediction of protein function from protein sequence and structure]](https://www.ncbi.nlm.nih.gov/pubmed/15029827)
--[[Predicting protein function from sequence and structural data]](https://www.ncbi.nlm.nih.gov/pubmed/15963890)
--[[https://www.ncbi.nlm.nih.gov/pubmed/15922590]](https://www.ncbi.nlm.nih.gov/pubmed/15922590)
--[[Automatic annotation of protein function based on family identification]](https://www.ncbi.nlm.nih.gov/pubmed/14579359)
--[[Annotating proteins by mining protein interaction networks]](https://www.ncbi.nlm.nih.gov/pubmed/16873481)
--[[ProFAT: a web-based tool for the functional annotation of protein sequences]](https://www.ncbi.nlm.nih.gov/pubmed/17059594)
--[[]]
+- [[Predicting gene function using similarity learning]](https://www.ncbi.nlm.nih.gov/pubmed/24266903)
+- [[Gene Ontology annotation of the rice blast fungus, Magnaporthe oryzae]](https://www.ncbi.nlm.nih.gov/pubmed/19278556)
+- [[Prediction of protein function from protein sequence and structure]](https://www.ncbi.nlm.nih.gov/pubmed/15029827)
+- [[Predicting protein function from sequence and structural data]](https://www.ncbi.nlm.nih.gov/pubmed/15963890)
+- [[https://www.ncbi.nlm.nih.gov/pubmed/15922590]](https://www.ncbi.nlm.nih.gov/pubmed/15922590)
+- [[Automatic annotation of protein function based on family identification]](https://www.ncbi.nlm.nih.gov/pubmed/14579359)
+- [[Annotating proteins by mining protein interaction networks]](https://www.ncbi.nlm.nih.gov/pubmed/16873481)
+- [[ProFAT: a web-based tool for the functional annotation of protein sequences]](https://www.ncbi.nlm.nih.gov/pubmed/17059594)
   
  
   
