@@ -48,7 +48,7 @@ Here, I ensemble a curated list of resources regarding the research in protein f
 
 # Function Annotation Tools: Enzyme Commission Number (EC) Prediction:
   - **GrAPFI 2019**
-    - [[GrAPFI[](https://gitlab.inria.fr/bsarker/GrAPFI)
+    - [[GrAPFI]](https://gitlab.inria.fr/bsarker/GrAPFI)
     - [[Paper]](https://hal.inria.fr/hal-01920595)
   - **ECPred 2018**
     - [[ECPred]](http://cansyl.metu.edu.tr/ECPred.html)
