@@ -7,14 +7,14 @@ The ability to automatically annotate protein sequences in UniProtKB/TrEMBL, the
 
 Here, I ensemble a curated list of resources regarding the research in protein function annotation. 
 
-#The repository for protein data:
+# The repository for protein data:
 - **Uniprot Knowledge Base**
-  -[[SwissProt]](https://www.uniprot.org/uniprot/?query=reviewed:yes)
-  -[[TrEMBL]](https://www.uniprot.org/uniprot/?query=reviewed:no)
-- ** Protein Data Bank PDB **
-  -[[PDB]] (https://www.rcsb.org/)
-  -[[wwwPDB]] (http://www.wwpdb.org/)
+  - [[SwissProt]](https://www.uniprot.org/uniprot/?query=reviewed:yes)
+  - [[TrEMBL]](https://www.uniprot.org/uniprot/?query=reviewed:no)
+- **Protein Data Bank PDB**
+  - [[PDB]] (https://www.rcsb.org/)
+  - [[wwwPDB]] (http://www.wwpdb.org/)
 - **Protein Domain Data Base**
-  -[[InterPro]] (https://www.ebi.ac.uk/interpro/)
-  -[[pfam]] (https://pfam.xfam.org/)
-  -[[CATH]](http://www.cathdb.info/)
+  - [[InterPro]] (https://www.ebi.ac.uk/interpro/)
+  - [[pfam]] (https://pfam.xfam.org/)
+  - [[CATH]](http://www.cathdb.info/)
