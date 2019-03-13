@@ -30,19 +30,19 @@ Here, I ensemble a curated list of resources regarding the research in protein f
   - **PANNZER**
     - [[PANNZER]](http://ekhidna2.biocenter.helsinki.fi/sanspanz/)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/25653249)
-  -**Argot2.5**
+  - **Argot2.5**
     - [[Argot2.5]](http://www.medcomp.medicina.unipd.it/Argot2-5/form.php)
     - [[Paper]]()https://www.ncbi.nlm.nih.gov/pubmed/22536960
-  -**INGA**
+  - **INGA**
     - [[INGA]](http://protein.bio.unipd.it/inga)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/26019177)
-  -**CATH FunFHMMer**
+  - **CATH FunFHMMer**
     - [[FunFHMMer]](http://www.cathdb.info/search/by_funfhmmer)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/25964299)
-  -**PANDA**
+  - **PANDA**
     - [[Panda]](http://protein.bio.unipd.it/panada/)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/24265686)
-  -**PFP-ESG**
+  - **PFP-ESG**
     - [[PFP-ESG]](http://kiharalab.org/software.php)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/28451967)
 
