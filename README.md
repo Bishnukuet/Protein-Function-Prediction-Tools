@@ -32,7 +32,7 @@ Here, I ensemble a curated list of resources regarding the research in protein f
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/25653249)
   - **Argot2.5**
     - [[Argot2.5]](http://www.medcomp.medicina.unipd.it/Argot2-5/form.php)
-    - [[Paper]]()https://www.ncbi.nlm.nih.gov/pubmed/22536960
+    - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/22536960)
   - **INGA**
     - [[INGA]](http://protein.bio.unipd.it/inga)
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/26019177)
