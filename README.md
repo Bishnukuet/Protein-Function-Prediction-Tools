@@ -47,8 +47,8 @@ Here, I ensemble a curated list of resources regarding the research in protein f
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/28451967)
 
 # Function Annotation Tools: Enzyme Commission Number (EC) Prediction:
-  - **GrAPFI 2019**
-    - [[GrAPFI]](https://gitlab.inria.fr/bsarker/GrAPFI)
+  - **GrAPFI 20120**
+    - [[GrAPFI]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3460-7)
     - [[Paper]](https://hal.inria.fr/hal-01920595)
   - **ECPred 2018**
     - [[ECPred]](http://cansyl.metu.edu.tr/ECPred.html)
@@ -71,6 +71,7 @@ Here, I ensemble a curated list of resources regarding the research in protein f
     - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/17931599)
 
 # Interesting Papers
+- [[Graph Based Automatic Protein Function Annotation Improved by Semantic Similarity]](https://link.springer.com/chapter/10.1007/978-3-030-45385-5_24)
 - [[Predicting human protein function with multi-task deep neural networks]](https://www.ncbi.nlm.nih.gov/pubmed/29889900)
 - [[Using PPI network autocorrelation in hierarchical multi-label classification trees for gene function prediction]](https://www.ncbi.nlm.nih.gov/pubmed/24070402)
 - [[Protein function prediction using text-based features extracted from the biomedical literature: the CAFA challenge]](https://www.ncbi.nlm.nih.gov/pubmed/23514326)
@@ -87,7 +88,7 @@ Here, I ensemble a curated list of resources regarding the research in protein f
 - [[An efficient method for protein function annotation based on multilayer protein networks]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039885/)
 
 # Interesting Papers of EC Annotation
-
+- [[Functional Annotation of Proteins using Domain Embedding based Sequence Classification]](https://www.scitepress.org/Link.aspx?doi=10.5220/0008353401630170)
 - [[Accurate prediction of protein enzymatic class by N-to-1 Neural Networks]](https://www.ncbi.nlm.nih.gov/pubmed/23368876)
 - [[Efficiency analysis of {KNN} and minimum distance-based classifiers in enzyme family prediction]](https://www.ncbi.nlm.nih.gov/pubmed/19853514)
 - [[ECS: an automatic enzyme classifier based on functional domain composition]](https://www.ncbi.nlm.nih.gov/pubmed/17500036)
